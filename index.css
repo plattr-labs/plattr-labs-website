@@ -99,7 +99,7 @@ grid-container div:nth-child(odd) {
   grid-column: 1/2;
   background-color: transparent !important;
   background-size: cover;
-  background-image: url('/images/Rectangle\ 27.png');
+  background-image: url('https://res.cloudinary.com/dn0uixapz/image/upload/v1712057559/Rectangle_27_o7jcns.png');
   border-radius: 10px;
 }
 
@@ -115,13 +115,13 @@ grid-container div:nth-child(odd) {
 }
 
 .con2 .nested-grid1 {
-  background-image: url('/images/Rectangle 30.png');
+  background-image: url('https://res.cloudinary.com/dn0uixapz/image/upload/v1712057561/Rectangle_30_awgncs.png');
   background-size: cover;
   background-color: transparent !important;
   border-radius: 10px;
 }
 .con2 .nested-grid2 {
-  background-image: url('/images/Rectangle 32.png');
+  background-image: url('https://res.cloudinary.com/dn0uixapz/image/upload/v1712057562/Rectangle_32_irkvd2.png');
   background-size: cover;
   background-color: transparent !important;
   border-radius: 10px;
@@ -130,7 +130,7 @@ grid-container div:nth-child(odd) {
   grid-row: 1/4;
   grid-column: 3/4;
   background-color: transparent !important;
-  background-image: url('/images/Rectangle 29.png');
+  background-image: url('https://res.cloudinary.com/dn0uixapz/image/upload/v1712057561/Rectangle_29_mvuryq.png');
   background-size: cover;
   border-radius: 10px;
 }
@@ -141,7 +141,7 @@ grid-container div:nth-child(odd) {
 .con5 {
   grid-column: 1/2;
   grid-row: 3/4;
-  background-image: url('/images/Rectangle 26.png');
+  background-image: url('https://res.cloudinary.com/dn0uixapz/image/upload/v1712057557/Rectangle_26_lklmqh.png');
   background-size: cover;
   border-radius: 10px;
 }
@@ -150,7 +150,7 @@ grid-container div:nth-child(odd) {
   grid-row: 3/4;
   grid-column: 2/3;
   background-color: rgb(37, 37, 37) !important;
-  background-image: url('/images/Rectangle 28.png');
+  background-image: url('https://res.cloudinary.com/dn0uixapz/image/upload/v1712057560/Rectangle_28_pmqepo.png');
   background-size: cover;
   border-radius: 10px;
 }
